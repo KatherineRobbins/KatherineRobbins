@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**katiebirdstheword/katiebirdstheword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kat! This account is like a gallery showcasing my journey as a web developer, featuring both my current projects and some highlights from the past.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on enhancing my coding skills
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on building websites for various small bussinesses
+- 🤔 I’m looking for help with Front-end Frameworks and Libraries
+- 💬 Ask me about my journey to becoming a Web Developer
+- 📫 How to reach me: https://www.linkedin.com/in/katherine-robbins-129689305/
+- ⚡ Fun fact: I absolutely love treasure hunting through thrift stores for vintage gems! 
+
